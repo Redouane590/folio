@@ -1,4 +1,8 @@
-header {
+ body {
+  text-align: center;
+ }
+
+ header {
   background-color: #f4f4f4;
   padding: 20px;
   text-align: center;
@@ -38,6 +42,14 @@ nav ul li a:hover {
   margin-bottom: 20px;
 }
 
+.project {
+  background: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
 #contact {
   background: #f4f4f4;
   padding: 20px;
@@ -50,4 +62,3 @@ footer {
   text-align: center;
   margin-top: 20px;
 }
-
